@@ -3,7 +3,7 @@ package com.isep.rpg;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Hero {
+public abstract class Hero {
     private int lifePoints;
     private int maxlife;
     private int weponDamage;
