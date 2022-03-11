@@ -5,6 +5,5 @@ public class Hero {
     private int maxlife;
     private int weponDamage;
     private int armor;
-    private int da;
 
 }
