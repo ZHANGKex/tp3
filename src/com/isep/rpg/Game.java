@@ -7,9 +7,11 @@ public class Game {
     private String inputParser;
     private List<Hero>heroes;
 
-    public void playGame(){
-
+    public void playGame(int playerTurn){
+        this.playerTurn = playerTurn;
     }
+
+
 
     public void generateCombat(){
 
