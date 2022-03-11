@@ -1,5 +1,5 @@
 package com.isep.rpg;
 
-public class Mage {
+public class Mage extends SpellCaster{
 
 }

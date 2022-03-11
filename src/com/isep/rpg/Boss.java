@@ -1,4 +1,4 @@
 package com.isep.rpg;
 
-public class Boss {
+public class Boss extends Enemy{
 }

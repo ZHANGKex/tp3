@@ -1,9 +1,11 @@
 package com.isep.rpg;
 
+import java.util.List;
+
 public class Game {
     private int playerTurn;
-    private int palyer;
     private String inputParser;
+    private List<Hero>heroes;
 
     public void playGame(){
 

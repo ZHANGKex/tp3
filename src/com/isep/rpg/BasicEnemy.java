@@ -1,4 +1,4 @@
 package com.isep.rpg;
 
-public class BasicEnemy {
+public class BasicEnemy extends Enemy{
 }

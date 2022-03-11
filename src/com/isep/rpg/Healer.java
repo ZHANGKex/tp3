@@ -1,4 +1,4 @@
 package com.isep.rpg;
 
-public class Healer {
+public class Healer extends SpellCaster{
 }

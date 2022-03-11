@@ -1,4 +1,4 @@
 package com.isep.rpg;
 
-public class Warrior {
+public class Warrior extends Hero {
 }

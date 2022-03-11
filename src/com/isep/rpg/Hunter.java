@@ -1,5 +1,5 @@
 package com.isep.rpg;
 
-public class Hunter {
+public class Hunter extends Hero{
 
 }
