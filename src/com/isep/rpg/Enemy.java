@@ -1,5 +1,5 @@
 package com.isep.rpg;
 
-public abstract class Enemy {
-
+public class Enemy {
+    private int lifePoints;
 }
