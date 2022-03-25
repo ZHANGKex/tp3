@@ -26,6 +26,4 @@ public class question1 {
         }
         return true;
     }
-
-
 }
