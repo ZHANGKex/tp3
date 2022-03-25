@@ -1,7 +1,7 @@
 package question;
 
 public class question1 {
-    public boolean isPermutation(String s,String t){
+    public static boolean isPermutation(String s,String t){
         char []array1 = s.toCharArray();
         char []array2 = t.toCharArray();
         for(int i=0;i<array1.length;i++){
@@ -26,4 +26,11 @@ public class question1 {
         }
         return true;
     }
+    public static void main(String[] args){
+        String s = "abc";
+        String t = "abc";
+        isPermutation(s,t);
+
+    }
 }
+
